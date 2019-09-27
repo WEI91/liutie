@@ -1,3 +1,2 @@
-var common = require('../common.js');
-common();
+'use strict' 
 console.log("羊驼就是草泥马!");
