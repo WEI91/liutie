@@ -1,10 +1,10 @@
 .nav{
-	background: #eee;
+	background:  #eee;
 	height: 30px;
 	line-height: 30px;
 }
 .nav .user{
-	float: left;
+	float:  left;
 }
 .nav .user.login{
 	display: none;
